@@ -48,4 +48,4 @@ else if (command === 'Pulse_Xd-Is-Gay'){
 });
 
 
-client.login('ODE1NjkyNTYyNTIyMzA4NjQ5.YDwG5Q.4Jt4--3hQKVVfn-upI2NAB5esK0')
+client.login('')
